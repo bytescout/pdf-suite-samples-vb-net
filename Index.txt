@@ -1,0 +1,202 @@
+## Index of source code examples:
+
+\Add 3d annotations to pdf with pdf sdk
+\Add file attachment to pdf with pdf sdk
+\Add goto action in pdf with pdf sdk
+\Add header and footer with pdf sdk
+\Add image stamp in pdf with pdf extractor sdk
+\Add javascript action in pdf with pdf sdk
+\Add launch action in pdf with pdf sdk
+\Add link to page in pdf with pdf sdk
+\Add page numbers to pdf with pdf sdk
+\Add show-hide widget action in pdf with pdf sdk
+\Add sound annotation to pdf with pdf sdk
+\Add text annotation in pdf with pdf sdk
+\Add text field to pdf form with pdf sdk
+\Add video annotation in pdf with pdf sdk
+\Add watermarks to pdf with pdf sdk
+\Batch check folder agianst json settings with pdf extractor sdk
+\Check if ocr is required for pdf with pdf extractor sdk
+\Compare pdf documents with pdf extractor sdk
+\Convert digital photos to pdf with pdf sdk
+\Convert docx to html with pdf sdk
+\Convert docx to pdf with pdf sdk
+\Convert email with attachemnts to pdf with pdf sdk
+\Convert html email to pdf with pdf sdk
+\Convert html email with attachments to pdf with pdf sdk
+\Convert html to docx with pdf sdk
+\Convert html to pdf with pdf sdk
+\Convert pdf to 1-bit bmp with pdf renderer sdk
+\Convert pdf to bmp (using streams) with pdf renderer sdk
+\Convert pdf to bmp with pdf renderer sdk
+\Convert pdf to csv  (merge multiline text to table cell) with pdf extractor sdk
+\Convert pdf to csv by pages with pdf extractor sdk
+\Convert pdf to csv with pdf extractor sdk
+\Convert pdf to emf with pdf renderer sdk
+\Convert pdf to high quality png with pdf renderer sdk
+\Convert pdf to html (complex layout) from all pages with pdf to html sdk
+\Convert pdf to html (complex layout) from page with pdf to html sdk
+\Convert pdf to html (simple layout) from all pages with pdf to html sdk
+\Convert pdf to html (simple layout) from page with pdf to html sdk
+\Convert pdf to jpeg with pdf renderer sdk
+\Convert pdf to json with images with pdf extractor sdk
+\Convert pdf to json with pdf extractor sdk
+\Convert pdf to multipage tiff with pdf renderer sdk
+\Convert pdf to png with pdf renderer sdk
+\Convert pdf to xfdf with pdf extractor sdk
+\Convert pdf to xls with pdf extractor sdk
+\Convert pdf to xlsx with pdf extractor sdk
+\Convert pdf to xml with images with pdf extractor sdk
+\Convert pdf to xml with pdf extractor sdk
+\Convert protected pdf document to xls with pdf extractor sdk
+\Convert rtf email to pdf with pdf sdk
+\Convert rtf email with attachments to pdf with pdf sdk
+\Convert scanned pdf to csv with pdf extractor sdk
+\Convert Scanned PDF to Excel
+\Convert scanned pdf to json with pdf extractor sdk
+\Convert scanned pdf to text with pdf extractor sdk
+\Convert scanned pdf to xml with pdf extractor sdk
+\Convert svg to pdf with pdf sdk
+\Convert text email to pdf with pdf sdk
+\Convert text email with attachments to pdf with pdf sdk
+\Convert xfa form to xml in pdf with pdf extractor sdk
+\Convert xml to pdf with pdf sdk
+\Convert xps to pdf with pdf sdk
+\Create and use template in pdf with pdf sdk
+\Create bookmarks in pdf with pdf sdk
+\Create button in pdf form with pdf sdk
+\Create checkbox in pdf form with pdf sdk
+\Create combobox in pdf form with pdf sdk
+\Create invoice pdf from html with pdf sdk
+\Create invoice spanning multiple page with pdf sdk
+\Create listbox in pdf form with pdf sdk
+\Create multipage tiff to pdf with pdf sdk
+\Create new pdf document with pdf sdk
+\Create radio button in pdf form with pdf sdk
+\Create submit form action in pdf with pdf sdk
+\Create tables in pdf with pdf sdk
+\Create uri link action in pdf with pdf sdk
+\Create zugferd invoice with pdf sdk
+\Data masking in pdf with pdf extractor sdk
+\Detect lines in pdf with pdf extractor sdk
+\Draw lines and curves in pdf with pdf sdk
+\Draw rectangles in pdf with pdf sdk
+\Draw text string in pdf with pdf sdk
+\Draw tiling patterns in pdf with pdf sdk
+\Draw with blend mode in pdf with pdf sdk
+\Draw with clipping in pdf with pdf sdk
+\Draw with color profiles in pdf with pdf sdk
+\Draw with graphics state in pdf with pdf sdk
+\Draw with transparency in pdf with pdf sdk
+\Extract attachments from pdf with pdf extractor sdk
+\Extract audio from pdf with pdf extractor sdk
+\Extract csv from pdf and fill database in sql server with pdf extractor sdk
+\Extract filled pdf form data with pdf extractor sdk
+\Extract images by page from pdf with pdf extractor sdk
+\Extract images from pdf with pdf extractor sdk
+\Extract info about pdf with pdf extractor sdk
+\Extract pages from pdf with pdf extractor sdk
+\Extract pdf to text as stream with pdf extractor sdk
+\Extract table structure from pdf with pdf extractor sdk
+\Extract text by columns from pdf with pdf extractor sdk
+\Extract text by pages from pdf with pdf extractor sdk
+\Extract text from page area in pdf with pdf extractor sdk
+\Extract text from pdf with pdf extractor sdk
+\Extract video from pdf with pdf extractor sdk
+\File processing using profiles with pdf extractor sdk
+\Fill form 1099-int with pdf sdk
+\Fill form w-4 with pdf sdk
+\Fill form w-9 with pdf sdk
+\Fill pdf form with pdf sdk
+\Find email addresses in pdf using regex with pdf extractor sdk
+\Find keyword in pdf and extract page with pdf extractor sdk
+\Find keyword in pdf and extract text with pdf extractor sdk
+\Find phone number in pdf with regex with pdf extractor sdk
+\Find ssn number in pdf with regex with pdf extractor sdk
+\Find table in pdf and extract as csv with pdf extractor sdk
+\Find table in pdf and extract as xml with pdf extractor sdk
+\Find text in pdf with pdf extractor sdk
+\Find text in pdf with regex with pdf extractor sdk
+\Find text in pdf with smart match with pdf extractor sdk
+\Find text with hyphens in pdf with pdf extractor sdk
+\Find us address in pdf with regex with pdf extractor sdk
+\Flatten pdf form with pdf sdk
+\Get Selection Points with PDF Viewer UI Application with PDF Viewer SDK
+\Index pdf documents in folder with pdf extractor sdk
+\Index pdf files with pdf extractor sdk
+\Insert images in pdf with pdf sdk
+\Load existing pdf document with pdf sdk
+\Make Large PDF Document Searchable Using Parallel Processing
+\Make searchable pdf and fix rotated pages with pdf extractor sdk
+\Make searchable pdf discarding existing content with pdf extractor sdk
+\Make searchable pdf from image with pdf extractor sdk
+\Make searchable pdf with pdf extractor sdk
+\Make thumbnail image from pdf with pdf renderer sdk
+\Make unsearchable pdf with pdf extractor sdk
+\Merge pdf documents with pdf extractor sdk
+\Merge protected pdf documents with pdf extractor sdk
+\Merge two pdf documents with pdf sdk
+\Ocr (optical character recognition) and pdf with pdf extractor sdk
+\Ocr analyser in pdf with pdf extractor sdk
+\Ocr with best dataset with pdf extractor sdk
+\Ocr with fast dataset with pdf extractor sdk
+\Ocr with mean dataset with pdf extractor sdk
+\Optimize pdf with pdf extractor sdk
+\Override resolution in multipage tiff with pdf renderer sdk
+\Override resolution in rendered image with pdf renderer sdk
+\Parallel processing of pdf files with pdf extractor sdk
+\Parse Invoice
+\Pdf files batch processing with pdf extractor sdk
+\Pdf invoice parsing with pdf extractor sdk
+\Pdf to image rendering in background thread with pdf renderer sdk
+\Pdf to image with custom size with pdf renderer sdk
+\PDF Viewer Control Hosted in WPF with PDF Viewer SDK
+\Pdf-a compatibility test with pdf extractor sdk
+\Print pdf with pdf renderer sdk
+\Read form values from 1099-int form with pdf sdk
+\Read form values from pdf form with pdf sdk
+\Read form values from w-4 form with pdf sdk
+\Read form values from w-9 form with pdf sdk
+\Read hindi text with pdf extractor sdk
+\Read PDF with scanned image and Hindi text
+\Read text from noisy image with pdf extractor sdk
+\Read values from form fields with pdf extractor sdk
+\Reduce memory usage during pdf to html conversion with pdf to html sdk
+\Reduce memory usage with pdf extractor sdk
+\Regular expression search and highlight in PDF
+\Remove empty pages with pdf extractor sdk
+\Remove protection from pdf with pdf sdk
+\Remove text with pdf extractor sdk
+\Render part of pdf page with pdf renderer sdk
+\Reorder pages in pdf with pdf sdk
+\Repair text with pdf extractor sdk
+\Rotate document with pdf extractor sdk
+\Rotate text in pdf with pdf sdk
+\Sample PDF Viewing UI Application with PDF Viewer SDK
+\Searchablepdfmaker progress indication with pdf extractor sdk
+\Set fonts for text in pdf with pdf sdk
+\Set intercharacter spacing for text in pdf with pdf sdk
+\Set invisible text over image in pdf with pdf sdk
+\Set page numbers in pdf with pdf sdk
+\Set passwords and permissions for pdf with pdf sdk
+\Set pdf document display options with pdf sdk
+\Set pdf document information with pdf sdk
+\Set PDF viewer Selection Options and use CustomPaint event with PDF Viewer SDK
+\Set superscript and subscript for text in pdf with pdf sdk
+\Set word spacing for text in pdf with pdf sdk
+\Show or hide text or vector or image layers in pdf with pdf renderer sdk
+\Sign pdf with pdf sdk
+\Silent pdf document printing with pdf renderer sdk
+\Slice PDF by horizontal lines inside
+\Split document with pdf extractor sdk
+\Split protected pdf document with pdf extractor sdk
+\Textextractor progress indication with pdf extractor sdk
+\Use drawing transformations for pdf with pdf sdk
+\Use markup for annotations in pdf with pdf sdk
+\Use pdf layers with pdf sdk
+\Use right to left text in pdf with pdf sdk
+\Use string scaling in pdf with pdf sdk
+\Zugferd invoice extraction with pdf extractor sdk
+\Batch check folder agianst json settings with pdf extractor sdk\InputFiles
+\Check if ocr is required for pdf with pdf extractor sdk\InputFiles
+\Index pdf documents in folder with pdf extractor sdk\Files
